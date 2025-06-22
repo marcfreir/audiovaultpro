@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">AudioValtPro</string>
+    <string name="app_description">Privacy-focused audio player and recorder</string>
+
+    <!-- Player strings -->
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+
+    <!-- Recorder strings -->
+    <string name="record">Record</string>
+    <string name="recording">Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="recordings">Recordings</string>
+
+    <!-- Permissions -->
+    <string name="permission_audio_rationale">Audio recording permission is needed to record audio</string>
+    <string name="permission_storage_rationale">Storage permission is needed to access your music files</string>
+    <string name="permission_denied">Permission denied. Some features may not work properly.</string>
+
+    <!-- Effects -->
+    <string name="equalizer">Equalizer</string>
+    <string name="noise_reduction">Noise Reduction</string>
+    <string name="compression">Compression</string>
+    <string name="effects">Effects</string>
+
+    <!-- Formats -->
+    <string name="format_mp3">MP3</string>
+    <string name="format_flac">FLAC</string>
+    <string name="format_ogg">OGG</string>
+    <string name="format_m4a">M4A</string>
+    <string name="format_wav">WAV</string>
+
+    <!-- Navigation -->
+    <string name="tab_player">Player</string>
+    <string name="tab_recorder">Recorder</string>
+    <string name="tab_effects">Effects</string>
+
+    <!-- Error messages -->
+    <string name="error_file_not_found">Audio file not found</string>
+    <string name="error_playback">Playback error occurred</string>
+    <string name="error_recording">Recording error occurred</string>
+    <string name="error_permission">Permission required</string>
+
+    <!-- Status messages -->
+    <string name="no_audio_files">No audio files found</string>
+    <string name="no_recordings">No recordings yet</string>
+    <string name="loading">Loading…</string>
+    <string name="ready_to_record">Ready to Record</string>
+</resources>
